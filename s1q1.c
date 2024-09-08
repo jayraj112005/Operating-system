@@ -1,3 +1,6 @@
+*Write a program that demonstrates the use of nice() system call. After a child process is started
+using fork(), assign higher priority to the child using nice() system call
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
